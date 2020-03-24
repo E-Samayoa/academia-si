@@ -11,5 +11,4 @@ class AcademiaSiApplicationTests {
 	}
 
 
-	--La mia ahi maikol jajaja
 }
